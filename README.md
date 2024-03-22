@@ -2,6 +2,10 @@
    React - Table
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-table/assets/111967202/19f4e425-7c32-4758-8da3-1b9a4583ee9a" width="400" />
   <img src="https://github.com/ozkannbuyuk/react-table/assets/111967202/39ed42b2-3bcc-47c5-a924-7818bc804d90" width="400" />
